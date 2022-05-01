@@ -1230,7 +1230,7 @@ local icons = {
     name = "Xls",
   },
   ["xml"] = {
-    icon = "謹",
+    icon = "",
     color = "#e37933",
     cterm_color = "173",
     name = "Xml",
